@@ -5,8 +5,9 @@ Learning TensorFlow 2.0 Notebooks
 
 ### Getting Started in TensorFlow 2.0: Training a Neural Network on MNIST
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" title="MNIST" width="375" />
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" title="MNIST" width="375" />
+</p>
 
 ### Introduction to Convoutional Neural Networks with TensorFlow
 
