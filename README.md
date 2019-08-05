@@ -1,6 +1,9 @@
 Learning TensorFlow 2.0 Notebooks
 =================================
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/200px-TensorFlowLogo.svg.png"
+title="TF-logo" />
+
 ## Running TensorFlow on Colab
 
 ### 1) Getting Started in TensorFlow 2.0: Training a Neural Network on MNIST
@@ -24,8 +27,13 @@ In this Colab notebook, we design a convolutional neural network from scratch an
 
 ### Plotting Accuracy and Loss for CNNs with TensorFlow
 
+Part of the work that involves designing and training deep neural networks, consists in plotting the various parameters and metrics generated in the process of training. In this notebook we will design and train our Convnet from scratch, and will plot the training vs. test accuracy, and the training vs. test loss.
+
+These are very important metrics, since they will show us how well is doing our neural network.
 
 ### CIFAR-10: A More Challenging Dataset for CNNs
+
+So far we have trained our neural networks on the MNIST dataset, and have achieved high acurracy rates for both the training and test datasets. Now we
 
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/3649/media/cifar-10.png" title="CIFAR-10" width="295" />
 
