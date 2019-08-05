@@ -3,13 +3,15 @@ Learning TensorFlow 2.0 Notebooks
 
 ## Running TensorFlow on Colab
 
-### Getting Started in TensorFlow 2.0: Training a Neural Network on MNIST
+### 1) Getting Started in TensorFlow 2.0: Training a Neural Network on MNIST
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" title="MNIST" width="375" />
-</p>
+In this notebook, we train a shallow neural network to classify handwritten digits. We'll be using the tf.keras module which conveniently hides a lot of the complexity of neural networks.
 
-### Introduction to Convoutional Neural Networks with TensorFlow
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" title="MNIST" width="375" />
+
+We train our neural network on the MNIST dataset, which is the "hello world" of Machine Learning and Deep Learning algorithms.
+
+### 2) Introduction to Convoutional Neural Networks with TensorFlow
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Typical_cnn.png/800px-Typical_cnn.png" 
 title="CNN" width="500" />
