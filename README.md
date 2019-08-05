@@ -15,10 +15,12 @@ With just a few lines of code we'll be able to represent a neural network like t
 
 ### 2) Introduction to Convoutional Neural Networks and Deep Learning
 
-If you're seeking a position in a computer vision related field, you should definitely know what a convolutional neural network is all about. Convolutional neural networks, Convnets or CNNs for short, are deep neural networks that automatically extracts features from images through convolutional layers and then proceed to classify them through fully connected layers:
+If you're seeking a position in a computer vision related field, you should definitely know what a convolutional neural network is all about. Convolutional neural networks, Convnets or CNNs for short, are deep neural networks that automatically extract features from images through convolutional layers and then proceed to classify them through fully connected layers:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Typical_cnn.png/800px-Typical_cnn.png" 
 title="CNN" width="500" />
+
+In this Colab notebook, we design a convolutional neural network from scratch and we train it on the MNIST dataset. Also we explore our convnet in terms of the numbers of parameters (weights and biases) to be trained and in terms of how the tensor dimensions change as it goes through the network.
 
 ### Plotting Accuracy and Loss for CNNs with TensorFlow
 
