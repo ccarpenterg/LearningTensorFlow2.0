@@ -6,13 +6,13 @@ title="TF-logo" />
 
 ## Running TensorFlow on Colab
 
-### 1) Getting Started in TensorFlow 2.0: Training a Neural Network on MNIST
+### 1) Getting Started with TensorFlow 2.0: Training a Neural Network on MNIST
 
 In this notebook, we train a shallow neural network to classify handwritten digits. We'll be using the tf.keras module which conveniently hides a lot of the complexity of neural networks. We train our neural network on the MNIST dataset, which is the "hello world" of Machine Learning and Deep Learning algorithms:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" title="MNIST" width="375" />
 
-With just a few lines of code we'll be able to represent a neural network like this one:
+Our neural network's task is to classify images of handwritten digits, and with just a few lines of code we will be able to represent our neural network which looks similar to the one below:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/200px-Artificial_neural_network.svg.png" title="ANN" />
 
