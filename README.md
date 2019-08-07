@@ -16,6 +16,8 @@ With just a few lines of code we'll be able to represent a neural network like t
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/200px-Artificial_neural_network.svg.png" title="ANN" />
 
+notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/01_getting_started_with_tensorflow.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/01_getting_started_with_tensorflow.ipynb))
+
 ### 2) Introduction to Convoutional Neural Networks and Deep Learning
 
 If you're seeking a position in a computer vision related field, you should definitely know what a convolutional neural network is all about. Convolutional neural networks, Convnets or CNNs for short, are deep neural networks that automatically extract features from images through convolutional layers and then proceed to classify them through fully connected layers:
@@ -24,6 +26,8 @@ If you're seeking a position in a computer vision related field, you should defi
 title="CNN" width="500" />
 
 In this Colab notebook, we design a convolutional neural network from scratch and we train it on the MNIST dataset. Also we explore our convnet in terms of the numbers of parameters (weights and biases) to be trained and in terms of how the tensor dimensions change as it goes through the network.
+
+notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/02_introduction_to_convnets_and_deep_learning.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/02_introduction_to_convnets_and_deep_learning.ipynb))
 
 ### Plotting Accuracy and Loss for CNNs with TensorFlow
 
