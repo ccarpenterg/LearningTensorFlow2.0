@@ -47,6 +47,10 @@ As we'll see in this notebook, the CIFAR-10 dataset will prove particularly chal
 
 notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/04_cifar-10_challenging_convnets.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/04_cifar-10_challenging_convnets.ipynb))
 
-### Pretrained Convolutional Neural Networks
+### 5) Pretrained Convolutional Neural Networks (Transfer Learning)
 
 <img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16.png" title="VGG16" width="500" />
+
+notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/05_pretrained_convnets_and_transfer_learning.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/05_pretrained_convnets_and_transfer_learning.ipynb))
+
+### 6) CIFAR-10: Fine tuning a Pretrained Convnet
