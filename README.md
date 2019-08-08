@@ -37,13 +37,15 @@ These are very important metrics, since they will show us how well is doing our 
 
 notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/03_plotting_accuracy_loss_convnet.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/03_plotting_accuracy_loss_convnet.ipynb))
 
-### CIFAR-10: A More Challenging Dataset for CNNs
+### 4) CIFAR-10: A More Challenging Dataset for CNNs
 
 So far we have trained our neural networks on the MNIST dataset, and have achieved high acurracy rates for both the training and test datasets. Now we train our Convnet on the CIFAR-10 dataset, which contains 60,000 images of 32x32 pixels in color (3 channels) divided in 10 classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck).
 
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/3649/media/cifar-10.png" title="CIFAR-10" width="295" />
 
 As we'll see in this notebook, the CIFAR-10 dataset will prove particularly challenging for our very basic Convnet, and from this point we'll start exploring the world of pretrained neural networks.
+
+notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/04_cifar-10_challenging_convnets.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/04_cifar-10_challenging_convnets.ipynb))
 
 ### Pretrained Convolutional Neural Networks
 
