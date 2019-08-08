@@ -35,7 +35,7 @@ Part of the work that involves designing and training deep neural networks, cons
 
 These are very important metrics, since they will show us how well is doing our neural network.
 
-notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/03_plotting_accuracy_loss_convnet.ipynb))
+notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/03_plotting_accuracy_loss_convnet.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/03_plotting_accuracy_loss_convnet.ipynb))
 
 ### CIFAR-10: A More Challenging Dataset for CNNs
 
