@@ -29,11 +29,13 @@ In this Colab notebook, we design a convolutional neural network from scratch an
 
 notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/02_introduction_to_convnets_and_deep_learning.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/02_introduction_to_convnets_and_deep_learning.ipynb))
 
-### Plotting Accuracy and Loss for CNNs with TensorFlow
+### 3) Plotting Accuracy and Loss for CNNs with TensorFlow
 
 Part of the work that involves designing and training deep neural networks, consists in plotting the various parameters and metrics generated in the process of training. In this notebook we will design and train our Convnet from scratch, and will plot the training vs. test accuracy, and the training vs. test loss.
 
 These are very important metrics, since they will show us how well is doing our neural network.
+
+notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/03_plotting_accuracy_loss_convnet.ipynb))
 
 ### CIFAR-10: A More Challenging Dataset for CNNs
 
