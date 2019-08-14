@@ -49,7 +49,13 @@ notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/ma
 
 ### 5) Pretrained Convolutional Neural Networks (Transfer Learning)
 
+Pretrained Convnets have been trained on large datasets such as [Imagenet](https://en.wikipedia.org/wiki/ImageNet) and are available for downloading (including the architecture/layers and its parameters/weights).
+
+We will see that it's possible to tweak a pretrained convolutional neural network and transfer its "learning" to our problem.
+
 <img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16.png" title="VGG16" width="500" />
+
+In this notebook, we will explore the convnet VGG16 and we will take a look at its structure and number of parameters. Also we will discuss what it means to freeze an unfreeze a layer.
 
 notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/05_pretrained_convnets_and_transfer_learning.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/05_pretrained_convnets_and_transfer_learning.ipynb))
 
