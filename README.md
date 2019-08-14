@@ -60,3 +60,5 @@ In this notebook, we will explore the convnet VGG16 and we will take a look at i
 notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/05_pretrained_convnets_and_transfer_learning.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/05_pretrained_convnets_and_transfer_learning.ipynb))
 
 ### 6) CIFAR-10: Fine tuning a Pretrained Convnet
+
+notebook: ([github](https://github.com/ccarpenterg/LearningTensorFlow2.0/blob/master/06_cifar-10_fine_tuning_pretrained_convnet.ipynb)) ([colab](https://colab.research.google.com/github/ccarpenterg/LearningTensorFlow2.0/blob/master/06_cifar-10_fine_tuning_pretrained_convnet.ipynb))
